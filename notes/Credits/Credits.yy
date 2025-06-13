@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Credits",
+  "name":"Credits",
+  "parent":{
+    "name":"Sonic-4-Genesis",
+    "path":"Sonic-4-Genesis.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

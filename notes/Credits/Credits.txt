@@ -1,0 +1,94 @@
+Joevan Salmon-Johnson (AKA VectorSatyr, formerly AeroGP) - Sonic Studio Engine, "Basic Sonic Engine", Sonic For GMS.
+> https://forums.sonicretro.org/index.php?threads/new-game-maker-studio-sonic-engine.31723/
+> https://forums.sonicretro.org/index.php?threads/question-about-game-maker-sonic-engines-accuracy.34845/page-2#post-841401
+> https://github.com/VectorSatyr/sonic-for-gms
+
+"Sonic 4 Genesis" uses a stripped-down version of the Sonic Studio Engine template, and features various modifications which primarily come from the aforementioned templates.
+
+[Sonic For GMS copyright notice]
+BSD 2-Clause License
+
+Copyright (c) 2019, Joevan Salmon-Johnson
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+=============================================================================================================================
+
+Brandon Beauregard (AKA TruePowerofTeamwork, Tpot) - Sonic MAX Engine.
+DFelipehDEV - Sonic Astral Engine.
+> https://sonicfangameshq.com/forums/showcase/sonic-max.25/
+> https://gitlab.com/gmlegacy/astralenginegm82
+
+The code for the player's trail effect originates these templates, and the code for the Green Newtron badnik originates from Sonic MAX, with some modifications.
+
+[Sonic Astral Engine copyright notice]
+MIT License
+
+Copyright (c) 2024 DFelipehDEV
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+=============================================================================================================================
+
+Aleksander Norberg (AKA AleksNB, A.NB) - Starlight 8 Engine.
+> https://drive.google.com/file/d/1NCz-Uax4JcLz3-trludktemMbF2GelRi/view
+
+The code for resizing the game window, and the player's homing attack ability, originate from this template, the latter of which has been heavily modified.
+
+=============================================================================================================================
+
+TrianglyRU - Orbinaut Framework.
+> https://github.com/TrianglyRU/OrbinautFramework
+
+The method of storing the animation frames for the player's invincibility effect originates from this template.
+
+=============================================================================================================================
+
+Ian Monsen (AKA 1234567890moomoo) - Mad Gear Zone background music remix.
+> https://youtu.be/TCY7k_7pD0Y?si=bg4lX6nbZElMxjop
+
+This is used in the internal test stage.
+
+=============================================================================================================================
+
+Additional thanks and credit goes to everyone else who contributed to the aforementioned projects in any way.
+All sprites, sounds and music belong to SEGA, Sonic Team, and their respective owners.
+"Sonic 4 Genesis" is made in the GameMaker game engine by YoYo Games.
+Sonic the Hedgehog 4 is by Dimps and Sonic Team.
+All rights to Sonic the Hedgehog belong to SEGA and Sonic Team.
